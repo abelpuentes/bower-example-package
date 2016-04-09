@@ -1,0 +1,21 @@
+{
+  "name": "bower-example-package",
+  "homepage": "https://github.com/shevchenko-yehor/bower-example-package",
+  "authors": [
+    "Yehor Shevchenko <shevchenko.egor@gmail.com>"
+  ],
+  "description": "How to create a bower package example",
+  "main": "./dist/bowerExamplePackage.js",
+  "moduleType": [],
+  "keywords": [
+    "bower-example",
+    "example",
+    "example-package"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!bower.json",
+    "!dist/bowerExamplePackage.js"
+  ]
+}
